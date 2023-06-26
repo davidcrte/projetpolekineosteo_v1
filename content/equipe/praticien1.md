@@ -3,6 +3,8 @@ title: 'Pierre Dupont'
 date: 2018-11-18T12:33:46+10:00
 draft: false
 weight: 1
+button: 'About Us'
+buttonLink: 'about'
 heroHeading: 'Pierre Dupont'
 heroSubHeading: 'Masseur - Kinésithérapeute DE'
 heroBackground: 'https://blog.salonreeduca.com/wp-content/uploads/2020/04/shutterstock_1441796627.jpg'
@@ -30,19 +32,7 @@ Kinésithérapeute du sport et ostéopathe D.O., Monsieur Pierre Dupont est spé
 ## Spécialités
 - Physiothérapie
 - Rééducation fonctionnelle
-- Kinésithérapie du sport
-- Tecarthérapie
-- Ondes de choc
-- Thérapie manuelle
-- K-Tape
-- Suivi du sportif
-- Rééducation du membre supérieur
-- Rééducation du membre inférieur
-- Thérapie manuelle orthopédique (TMO)
-- Cryothérapie
-- Pressothérapie
-- Réathlétisation musculaire
-- Ostéopathie
+
 
 ## Expériences
 - Fondateur d’Institut Kinésithérapie depuis 2017
