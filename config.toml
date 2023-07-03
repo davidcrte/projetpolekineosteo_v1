@@ -46,14 +46,7 @@ themesDir = "themes"
   identifier = "equipe"
 	name = "L'équipe"
 	url = "/equipe/"
-  weight = 3
-
-[[menu.main]]
-    identifier = "kine1"
-    name = "kine1"
-    url = "/tags/category1"
-    parent = "equipe"
-    weight = 1
+  weight = 3       
 
 [[menu.main]]
   name = "Nous Contacter"
