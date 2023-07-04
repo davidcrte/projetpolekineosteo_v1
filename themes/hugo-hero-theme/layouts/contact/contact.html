@@ -1,0 +1,30 @@
+{{ define "header_css" }}{{ end }}
+{{ define "body_classes" }}page-contact{{ end }}
+{{ define "header_classes" }}{{ end }}
+
+{{ define "main" }}
+<div class="intro intro-small">
+  <div class="container">
+      <div class="row">
+        <div class="col-sm-8 col-sm-offset-2">
+          <!-- Default form -->
+          <form action="https://formspree.io/f/xbjeonva" method="POST" class='pad-bg'>
+            <h1 class="text-center">{{ .Title }}</h1>
+            <div class="form-group mb-3">
+              <label for="exampleFormControlInput1" class="form-label">Prénom/Nom</label>
+              <input type="text" class="form-control" name="name">
+            </div>
+            <div class="form-group mb-3">
+              <label for="exampleFormControlInput1" class="form-label">Email</label>
+              <input type="email" class="form-control" name="email" placeholder="name@example.com">
+            </div>
+            <div class="form-group mb-3">
+              <label for="exampleFormControlTextarea1" class="form-label">Message</label>
+              <textarea class="form-control" name="message" rows="6"></textarea>
+            </div>
+            <button class="button">Envoyer</button>
+          </form>
+        </div>
+    </div>
+  </div>
+{{ end }}

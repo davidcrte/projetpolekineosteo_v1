@@ -1,0 +1,14 @@
+<div class="equipe equipe-summary">
+  {{ if .Params.thumbnail }}
+  <div class="equipe-image border border-5 rounded">
+    <a href="{{ .RelPermalink }}"><img src="{{ .Params.thumbnail | relURL }}"/></a>
+  </div>
+  {{ end }}
+  <div class="equipe-content">
+    <h2 class="equipe-title">
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+    </h2>
+    <h3>{{ .Params.heroSubHeading }}</h3>
+    {{ .Content | truncate 120 "..." | plainify }}
+  </div>
+</div>

@@ -1,0 +1,27 @@
+.equipe-summary {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  .equipe-image {
+    max-height: 300px;
+    overflow: hidden;
+    object-fit: cover;
+    img {
+      max-width: 100%;
+      height: auto;
+    }
+  }
+  .equipe-content {
+    flex: 1;
+    padding: 20px;
+    border-bottom: 2px solid $primary;
+    .equipe-title {
+      font-family: $font-family-heading;
+      font-size: 1.5rem;
+    }
+    p {
+      color: #666;
+      font-size: 0.9rem;
+    }
+  }
+}
