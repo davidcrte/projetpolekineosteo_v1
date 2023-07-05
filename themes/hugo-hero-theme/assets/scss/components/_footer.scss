@@ -26,6 +26,17 @@
       flex: 0 0 120px;
     }
   }
+
+  .carpark-icon{
+    //padding-top: 5px;
+    //margin-top: 30px;
+    margin-right: 1px;
+  }
+
+  .disabled-icon{
+    fill: $primary;
+  }
+
   ul {
     list-style: none;
     margin: 0;
@@ -45,6 +56,9 @@
         font-size: 1.1rem;
         line-height: 1.8;
         font-weight: bolder;
+      }
+      &.businessName{
+        text-decoration: underline;
       }
       a {
         //color: lighten($secondary, 50%);

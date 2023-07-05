@@ -1,6 +1,6 @@
 @import url("https://fonts.googleapis.com/css?family=Lato:400|Open+Sans:400,700");
 @import url("https://fonts.googleapis.com/css2?family=Ysabeau:wght@200&display=swap");
-@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css");
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.0/font/bootstrap-icons.css");
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
@@ -5474,6 +5474,10 @@ ol {
       .footer .footer-title {
         margin: 0;
         flex: 0 0 120px; } }
+  .footer .carpark-icon {
+    margin-right: 1px; }
+  .footer .disabled-icon {
+    fill: #3E828F; }
   .footer ul {
     list-style: none;
     margin: 0;
@@ -5492,6 +5496,8 @@ ol {
         font-size: 1.1rem;
         line-height: 1.8;
         font-weight: bolder; }
+      .footer ul li.businessName {
+        text-decoration: underline; }
       .footer ul li a {
         text-decoration: none; }
         .footer ul li a:hover {
@@ -6252,18 +6258,8 @@ html {
   background-color: #eee;
   margin: 0 0 1em; }
 
-.page-contact .pad-bg {
-  background: #f8f8f8;
-  padding: 40px 20px;
-  border-radius: 5px;
-  margin-top: 50px;
-  margin-bottom: 50px;
-  border: 1px solid #e5e5e5; }
-  .page-contact .pad-bg h1 {
-    padding-bottom: 30px;
-    margin-top: 0;
-    margin-bottom: 30px;
-    border-bottom: 1px dashed #ccc; }
+.page-home .map-legend {
+  border: 3px solid #3E828F; }
 
 .page-home .hero-image {
   background-size: cover;
