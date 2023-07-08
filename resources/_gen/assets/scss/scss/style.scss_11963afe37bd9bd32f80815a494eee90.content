@@ -6769,6 +6769,9 @@ ul.social {
 .hero-image-setheight {
   height: 460px; }
 
+.hero-image-mini {
+  height: 260px; }
+
 .hero-image-home {
   height: 50vh;
   background-blend-mode: normal;
@@ -6803,85 +6806,6 @@ html {
 
 .bg-secondary {
   background-color: #585551; }
-
-.page-services-list {
-  color: pink; }
-
-.page-services-single .content > p:first-of-type {
-  font-size: 1.2rem;
-  line-height: 1.5;
-  margin-bottom: 40px;
-  font-weight: 300; }
-  @media (min-width: 768px) {
-    .page-services-single .content > p:first-of-type {
-      font-size: 1.4rem;
-      line-height: 1.4;
-      margin-bottom: 40px;
-      font-weight: 300; } }
-.service-summary {
-  display: flex;
-  align-items: flex-start; }
-  .service-summary .service-image {
-    flex: 0 0 40px;
-    margin-right: 10px; }
-    .service-summary .service-image img {
-      max-width: 100%;
-      height: auto; }
-  .service-summary .service-content {
-    flex: 1; }
-    .service-summary .service-content .service-title {
-      font-family: "Ysabeau", sans-serif, -apple-system;
-      font-size: 1.5rem; }
-    .service-summary .service-content p {
-      color: #666;
-      font-size: 0.9rem;
-      width: 90%; }
-
-.work-summary {
-  display: flex;
-  align-items: flex-start;
-  flex-direction: column; }
-  .work-summary .work-image {
-    max-height: 400px;
-    overflow: hidden; }
-    .work-summary .work-image img {
-      max-width: 100%;
-      height: auto; }
-  .work-summary .work-content {
-    flex: 1;
-    padding: 20px;
-    border-bottom: 2px solid #3E828F; }
-    .work-summary .work-content .work-title {
-      font-family: "Ysabeau", sans-serif, -apple-system;
-      font-size: 1.5rem; }
-    .work-summary .work-content p {
-      color: #666;
-      font-size: 0.9rem; }
-
-.page-work-single h1.title {
-  font-size: 3rem;
-  font-family: "Ysabeau", sans-serif, -apple-system;
-  color: #3E828F; }
-
-.page-work-single .work-image img {
-  width: 100%;
-  height: auto; }
-
-.page-work-single .content > p:first-of-type {
-  font-size: 24px;
-  line-height: 32px;
-  margin-bottom: 40px;
-  font-weight: 300; }
-
-.page-work-single .masonry {
-  /* Masonry container */
-  column-count: 3;
-  column-gap: 1em; }
-
-.page-work-single .item {
-  /* Masonry bricks or child elements */
-  background-color: #eee;
-  margin: 0 0 1em; }
 
 .cabinet-summary {
   display: flex;

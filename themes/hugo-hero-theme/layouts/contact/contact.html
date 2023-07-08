@@ -14,20 +14,26 @@
       </div>
       {{ end }}
       <div class="col-8">
-        <form action={FORM_ENDPOINT} method="POST">
+        <form action="https://api.web3forms.com/submit" method="POST" id="form" accept-charset="UTF-8">
+          <input type="hidden" name="access_key" value="{{ .Params.ACCESS_KEY}}" />
           <div class="form-group">
-            <label for="exampleInputEmail1">Email address</label>
-            <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
-            <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+            <input type="text" class="form-control" name="Prénom" required placeholder="{{ .Params.name_ph}}">
           </div>
           <div class="form-group">
-            <label for="exampleInputPassword1">Password</label>
-            <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
+            <input type="text" class="form-control" name="Nom" required placeholder="{{ .Params.surname_ph}}">
           </div>
           <div class="form-group">
-            <textarea class="form-control" id="exampleFormControlTextarea1" rows="8"></textarea>
+            <input type="text" class="form-control" name="Objet" required placeholder="{{ .Params.subject_ph}}">
           </div>
-          <button type="submit" class="btn btn-primary">Submit</button>
+          <div class="form-group">
+            <input type="email" class="form-control" name="Email" required aria-describedby="emailHelp" placeholder="{{ .Params.email_ph}}">
+          </div>
+          <div class="form-group">
+            <textarea class="form-control" name="message" required rows="8" placeholder="{{ .Params.message_ph}}"></textarea>
+          </div>
+          <input type="hidden" name="redirect" value="{{ .Params.redirect}}">
+          <input type="hidden" name="from_name" value="{{ .Params.fromName}}">
+          <button type="submit" class="btn btn-primary">{{ .Params.labelButton}}</button>
         </form>
       </div>
 

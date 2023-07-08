@@ -1,0 +1,22 @@
+{{ define "header_css" }}{{ end }}
+{{ define "body_classes" }}page-merci{{ end }}
+{{ define "header_classes" }}{{ end }}
+
+
+{{ define "main" }}
+
+{{ partial "hero-image-mini.html" (dict "background" .Params.heroBackground "heading" .Params.heroHeading "subheading" .Params.heroSubHeading "content" .)}}
+
+<div class="container pt-6 pt-md-10">
+  <div class="row m-3">
+      {{ if .Content }}
+        <div class="col-4 page-merci">
+          {{ .Content }}
+        </div>
+        {{ end }}
+    </div>
+  </div>
+</div>
+
+
+{{end}}
