@@ -2,6 +2,7 @@ languageCode = "fr-fr"
 title = "Pôle Kiné-Ostéo du Port"
 theme = "hugo-hero-theme"
 baseURL = "/"
+#baseURL = "https://davidcrte.github.io/pkop_public/"
 themesDir = "themes"
 
 [module]

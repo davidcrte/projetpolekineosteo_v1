@@ -9,6 +9,6 @@
       <a href="{{ .Permalink }}">{{ .Title }}</a>
     </h2>
     <h3>{{ .Params.heroSubHeading }}</h3>
-    {{ .Content | truncate 120 "..." | plainify }}
+    {{ .Content | truncate 200 "..." }}
   </div>
 </div>

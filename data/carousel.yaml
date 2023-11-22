@@ -1,7 +1,11 @@
 images: 
-  - image: https://www.klyf.fr/wp-content/uploads/2020/09/LCA-3-e1601466583712.png
+  - image_src:  '/cabinet/_DSC0862essai.jpg'
     content_html: "La salle d'attente"
-  - image: https://www.caenkinesports.fr/wp-content/uploads/2021/02/016-CaenKineSports_Locaux-IMG_9364-scaled.jpg
-    content_html: "Kiné du sport"
-  - image: https://images.squarespace-cdn.com/content/v1/5d5c05aef0260a0001d64ce8/1576878895139-0ZMHU4QRRH4X1EBS37RI/media-06905756-006.jpg?format=1000
-    content_html: "Salle de soin"
+  - image_src:  '/cabinet/_DSC0864essai.jpg'
+    content_html: "La salle d'attente"
+  - image_src:  '/cabinet/_DSC0882essai.jpg'
+    content_html: "La salle d'attente"
+  - image_src:  '/cabinet/_DSC0892essai.jpg'
+    content_html: "La salle d'attente"
+  - image_src:  '/cabinet/_DSC0895essai.jpg'
+    content_html: "La salle d'attente"

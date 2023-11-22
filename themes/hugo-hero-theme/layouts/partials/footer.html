@@ -46,9 +46,25 @@
         {{ range .Site.Data.contact.hours }}
         <tr>
           <td class="day font-weight-bold">{{ .day }}</td>
-          <td class="opens">{{ .open }}</td>
+          {{ if .openAM }}
+          <td class="opens">{{ .openAM }}</td>
           <td>-</td>
-          <td class="closes">{{ .close }}</td>
+          <td class="closes">{{ .closeAM }}</td>
+          {{ else }}
+          <td class="opens center">Fermé</td>
+          <td></td>
+          <td></td>
+          {{ end }}
+          <td>/</td>
+          {{ if .openPM }}
+          <td class="opens">{{ .openPM }}</td>
+          <td>-</td>
+          <td class="closes">{{ .closePM }}</td>
+          {{ else }}
+          <td class="opens center">Fermé</td>
+          <td></td>
+          <td></td>
+          {{ end }}
         </tr>
         {{ end }}
       </table>

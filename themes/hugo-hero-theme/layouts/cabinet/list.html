@@ -6,25 +6,54 @@
 
 <!-- {{ partial "hero-image-setheight.html" (dict "background" .Params.heroBackground "heading" .Params.heroHeading "subheading" .Params.heroSubHeading "content" .)}} -->
 
-<div class="container pt-6 pt-md-10">
-  <div class="row">
-    <div class="col-12">
-        {{ partial "carousel.html" (dict "context" . "items" "1" "height" "50" "unit" "%" "duration" "3000") }}
+<!-- Carousel wrapper -->
+
+
+
+<div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
+  <div class="carousel-inner">
+
+    {{ if .Site.Data.carousel.images }}
+    {{ range $k, $v := .Site.Data.carousel.images }}
+    {{ if .image_src }}
+    {{ if not $k }}
+    <div class="carousel-item active">
+      {{ else }}
+      <div class="carousel-item img-fluid">
+        {{ end }}
+        <img class="d-block w-100 vh-100" src="{{ .image_src }}" alt="Third slide">
+      </div>
+      {{ end }}
+      {{ end }}
+      {{ end }}
+    </div>
+    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying"
+      data-bs-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleAutoplaying"
+      data-bs-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Next</span>
+    </button>
+  </div>
+
+  <!-- Carousel wrapper -->
+
+
+
+  {{ if .Content }}
+  <div class="container pt-6 pt-md-10 pb-6">
+    <div class="row">
+      <div class="col-12">
+        <div class="page-intro">
+          {{ .Content }}
+        </div>
+      </div>
     </div>
   </div>
-</div>
-
-{{ if .Content }}
-<div class="container pt-6 pt-md-10 pb-6">
-  <div class="row">
-    <div class="col-12">
-      <div class="page-intro">
-      {{ .Content }}
-    </div>
-    </div>
-  </div>
-</div>
-{{ end }}
+  {{ end }}
 
 
-{{ end }} 
+  {{ end }}

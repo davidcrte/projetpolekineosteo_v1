@@ -1,2 +1,10 @@
 .page-cabinet-list {
+
+    .carousel-inner > .carousel-item > img {
+        height: 100vh;
+    }
+
+    .carousel-inner{
+        background-color: pink;
+    }
 }

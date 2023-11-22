@@ -7,23 +7,29 @@ bus: 'Ligne 5 "Port de Commerce"'
 disabled: 'Accès PMR'
 hours:
   - day: Lundi
-    open: 8:30
-    close: 19:30
+    openAM: 9:00
+    closeAM: 13:00
+    openPM: 14:00
+    closePM: 18:00
   - day: Mardi
-    open: 8:30
-    close: 19:30
+    openAM: 9:00
+    closeAM: 13:00
+    openPM: 14:00
+    closePM: 18:00
   - day: Mercredi
-    open: Fermé
-    close:
+    openAM: 8:40
+    closeAM: 12:40
   - day: Jeudi
-    open: 8:30
-    close: 19:30
+    openAM: 9:00
+    closeAM: 13:00
+    openPM: 14:00
+    closePM: 18:00
   - day: Vendredi
-    open: 8:30
-    close: 19:30
+    openAM: 9:00
+    closeAM: 13:00
+    openPM: 14:00
+    closePM: 13:00
   - day: Samedi
-    open: Fermé
-    close:
+
   - day: Dimanche
-    open: Fermé
-    close:
+  
