@@ -5,7 +5,6 @@
     }
 
     .hero-image {
-        background-size: contain;
         background-repeat: no-repeat;
         background-position: top center;
         background-blend-mode: screen;
@@ -28,6 +27,7 @@
             flex: 0;
             color: $secondary;
             margin: auto 0;
+
 
             h1 {
                 font-size: 3rem;

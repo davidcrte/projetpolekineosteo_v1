@@ -6676,7 +6676,8 @@ ol {
 .page {
   display: flex;
   min-height: 100vh;
-  flex-direction: column; }
+  flex-direction: column;
+  text-align: justify; }
   .page .wrapper {
     flex: 1; }
 
@@ -6718,6 +6719,10 @@ ol {
       .footer .footer-title {
         margin: 0;
         flex: 0 0 120px; } }
+  .footer .table {
+    --bs-table-bg: transparent;
+    --bs-table-color: #d6d4d2!
+  ; }
   .footer .center {
     text-align: center; }
   .footer .carpark-icon {
@@ -7427,7 +7432,6 @@ html {
   border: 3px solid #3E828F; }
 
 .page-home .hero-image {
-  background-size: contain;
   background-repeat: no-repeat;
   background-position: top center;
   background-blend-mode: screen;

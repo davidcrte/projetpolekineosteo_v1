@@ -1,11 +1,7 @@
 images: 
-  - image_src:  '/cabinet/_DSC0862essai.jpg'
+  - image_src:  '/cabinet/_DSC0862_c.jpg'
     content_html: "La salle d'attente"
-  - image_src:  '/cabinet/_DSC0864essai.jpg'
+  - image_src:  '/cabinet/_DSC0864_c.png'
     content_html: "La salle d'attente"
-  - image_src:  '/cabinet/_DSC0882essai.jpg'
-    content_html: "La salle d'attente"
-  - image_src:  '/cabinet/_DSC0892essai.jpg'
-    content_html: "La salle d'attente"
-  - image_src:  '/cabinet/_DSC0895essai.jpg'
+  - image_src:  '/cabinet/_DSC0882_c.png'
     content_html: "La salle d'attente"

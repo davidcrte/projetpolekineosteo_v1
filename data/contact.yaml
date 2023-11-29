@@ -28,8 +28,4 @@ hours:
     openAM: 9:00
     closeAM: 13:00
     openPM: 14:00
-    closePM: 13:00
-  - day: Samedi
-
-  - day: Dimanche
-  
+    closePM: 17:00

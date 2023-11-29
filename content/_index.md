@@ -3,7 +3,7 @@ title: 'Accueil'
 date: 2018-02-12T15:37:57+07:00
 #heroHeading: 'Pôle kiné ostéo du Port'
 #heroSubHeading: 'Bienvenue au Pôle kiné ostéo du port !'
-heroBackground: 'cabinet/14c206e6-6f94-46b6-b006-918822474154.JPG'
+heroBackground: '/cabinet/14c206e6-6f94-46b6-b006-918822474154.JPG'
 ---
 
 ## Bienvenue au Pôle kiné ostéo du port !
@@ -20,7 +20,7 @@ Nous intervenons également pour des soins à domicile.
 ## Tarifs
 
 - Consultation de kinésithérapie : de 16,13€ à .....
-(Taxe compensatrice de charges de 2€/séance hors ALD,CMU,AT)
+(Taxe compensatrice de charges de 3€/séance hors ALD,CMU,AT)
 - Consultation d’Ostéopathie : 55€
 Ces honoraires vous sont communiqués à titre indicatif. Ils peuvent varier selon le type de
 soins, le nombre de séances et les actes effectués.

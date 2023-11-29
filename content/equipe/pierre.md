@@ -5,35 +5,25 @@ draft: false
 weight: 2
 heroHeading: 'Pierre Val'
 heroSubHeading: 'Kinésithérapeute DE et Ostéopathe du sport'
-heroBackground: '/cabinet/_DSC0864.JPG'
+heroBackground: '/cabinet/_DSC0864_c.png'
 thumbnail: '/equipe/pierre.jpeg'
 images: ['/equipe/pierre.jpeg']
 ---
 
-Kinésithérapeute diplômé depuis 2010, j'ai aujourd’hui une pratique orientée vers l’orthopédie et le sport.
-Titulaire d’un DIU de Kinésithérapie du sport, j’ai l’habitude d’accompagner des sportifs du niveau amateur jusqu’au niveau professionnel. J'exerce actuellement une activité mixte entre cabinet et suivi d'équipes sportives. 
-J’apprécie travailler autant dans les domaines de la prévention, de la rééducation (suite blessure ou chirurgie), que de la réathlétisation afin de guider les sportifs au mieux dans leur reprise d’activité (suite arrêts longs de sport).  
-Mes autres domaines d’intervention sont les troubles musculo-squelettiques. Mon parcours de formation m’a amené à développer une expertise sur le diagnostic et le traitement des tendinopathies, lombalgies, cervicalgies, et autres douleurs d’origines articulaires, musculaires et fasciales.
-J’adapte ma pratique en fonction des besoins de chacun : techniques ostéopathiques de thérapie manuelle, levées de tensions musculaires, dry needling, ondes de chocs et techniques de rééducation actives sont autant de méthodes que je combine afin d’accompagner les patients vers la guérison. 
-Pour favoriser la récupération, des exercices peuvent en outre être proposés : en autonomie sur la base de programmes d’auto-rééducation, ou en complément des séances dans notre salle de sport. 
+Kinésithérapeute et Ostéopathe du sport, mon activité principale est le diagnostique et le traitement des troubles musculo-squelettique (douleur de dos, de mâchoires, de genoux...) et des pathologies sportives. Je reçois au cabinet tous types de sportifs (course à pied, cross fit, rugby, surf, escalade..) du sportif amateur à l'athlète de haut niveau.
+La complémentarité entre le travail de mobilité en ostéopathie, le dry needling (puncture musculaire) et le travail actif de renforcement en kinésithérapie permettra une prise en charge globale et un retour rapide aux différentes activités. 
+Je propose aussi des analyses de course à pied sur tapis pour optimiser les performances du coureur.
+Mon objectif est toujours de vous rendre le plus autonome possible dans votre traitement afin de conserver un gain sur du long terme.
 
-Au plaisir de vous recevoir au Pôle Kiné Ostéo du Port 
+Au plaisir de vous recevoir au Pôle Kine Osteo du Port 
 
-## Mes principales formations :
+Mes principales formations :
 
+- Ostéopathe DO
 - Kinésithérapeute DE   
-- DIU Kinésithérapie du sport
-- Réhabilitation avancée du sportif
 - Dry Needling 
-- Thérapie Manuelle Orthopédique
-- Diagnostics et traitements en Physiothérapie
+- La Clinique du coureur 
+- Kinesport et EBP
+- Dysfonction temporo-mandibulaire 
 - Prise en charge des douleurs irradiantes
-
-## Equipes sportives suivies :
-
-- Brest Bretagne Handball – Centre de Formation
-- Sélection Féminine de Handball du Sénégal
-- Iroise Athlétisme 
-- Club de Football Américain Tonnerre de Brest
-- Montpellier Méditerranée Futsal
-- Sélection de football de Guyane « Yana Doko »
+-Thérapie manuelle debout du sportif

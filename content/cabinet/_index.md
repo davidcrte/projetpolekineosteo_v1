@@ -4,18 +4,7 @@ date: 2023-04-22T13:48:18+07:00
 #heroHeading: 'Le cabinet'
 # heroSubHeading: 'L''équipe du POLE KINE-OSTEO DU PORT vous accueille du lundi au vendredi, sur RDV, pour prendre en charge votre rééducation.'
 heroBackground: 'http://www.cabinetkinerepublique.fr/s/img/emotionheader5620394.png?1588682237.920px.341px'
-
-carousel: 
-  - image:  '/cabinet/_DSC0862essai.jpg'
-    content_html: "La salle d'attente"
-  - image:  '/cabinet/_DSC0864essai.jpg'
-    content_html: "La salle d'attente"
-  - image:  '/cabinet/_DSC0882essai.jpg'
-    content_html: "La salle d'attente"
-  - image:  '/cabinet/_DSC0892essai.jpg'
-    content_html: "La salle d'attente"
-  - image:  '/cabinet/_DSC0895essai.jpg'
-    content_html: "La salle d'attente"
+  
 ---
 
 Un espace de 240m2 composé d’un plateau technique de 50 m2 et de 8 salles de soins individuelles sont à notre disposition pour vous proposer des séances personnalisées lors de votre rééducation. Ensemble, nous avons la volonté d’apporter un soin individualisé à chaque patient. 
