@@ -4,8 +4,9 @@ date: 2023-09-15T18:19:46+10:00
 draft: false
 weight: 4
 heroHeading: 'Martin Ily'
+doctolib: 'https://www.doctolib.fr/masseur-kinesitherapeute/brest/martin-ily'
 heroSubHeading: 'Kinésithérapeute DE'
-heroBackground: '/cabinet/_DSC0864_c.png'
+heroBackground: '/cabinet/14c206e6-6f94-46b6-b006-918822474154.JPG'
 thumbnail: '/equipe/martin.jpg'
 images: ['/equipe/martin.jpg']
 ---

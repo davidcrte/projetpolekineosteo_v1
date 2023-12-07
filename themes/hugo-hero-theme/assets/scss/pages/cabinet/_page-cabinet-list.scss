@@ -1,11 +1,39 @@
 .page-cabinet-list {
 
-    .carousel-inner > .carousel-item > img {
-        height: 150px;
+    h1.title {
+        font-size: 3rem;
+        font-family: $font-family-heading;
+        color: $primary;
     }
 
-    .carousel-inner{
-        background-color: pink;
+    .cabinet-image {
+        img {
+            width: 100%;
+            height: auto;
+        }
+    }
+
+    .content {
+        ul {
+            list-style-type: circle;
+
+            strong {
+                color: $primary;
+                font-family: sans-serif, -apple-system;
+            }
+        }
+    }
+
+    .masonry {
+        /* Masonry container */
+        column-count: 3;
+        column-gap: 1em;
+    }
+
+    .item {
+        /* Masonry bricks or child elements */
+        background-color: #eee;
+        margin: 0 0 1em;
     }
 
 }

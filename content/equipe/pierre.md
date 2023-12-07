@@ -5,7 +5,7 @@ draft: false
 weight: 2
 heroHeading: 'Pierre Val'
 heroSubHeading: 'Kinésithérapeute DE et Ostéopathe du sport'
-heroBackground: '/cabinet/_DSC0864_c.png'
+heroBackground: '/cabinet/14c206e6-6f94-46b6-b006-918822474154.JPG'
 thumbnail: '/equipe/pierre.jpeg'
 images: ['/equipe/pierre.jpeg']
 ---
@@ -17,7 +17,7 @@ Mon objectif est toujours de vous rendre le plus autonome possible dans votre tr
 
 Au plaisir de vous recevoir au Pôle Kine Osteo du Port 
 
-Mes principales formations :
+**Mes principales formations :**
 
 - Ostéopathe DO
 - Kinésithérapeute DE   

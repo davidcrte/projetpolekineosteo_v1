@@ -5,6 +5,10 @@
 {{ define "main" }}
 {{ partial "hero-image-setheight.html" (dict "background" .Params.heroBackground "heading" .Params.heroHeading "subheading" .Params.heroSubHeading "section" .Section "content" .)}}
 <div class="container pt-4 pt-md-10 pb-4 pb-md-10">
+  {{ if .Params.doctolib }}
+    <a href="{{.Params.doctolib}}" style="display:block;text-align:center;background-color:#0596DE;color:#ffffff;font-size:14px;overflow:hidden;width:257px;height:40px;border-bottom-right-radius:none;border-bottom-left-radius:none;bottom:0;left:5px;z-index:1000;border-top-left-radius:4px;border-top-right-radius:4px;line-height:40px" target="_blank" data-reactroot=""><span style="font-size:13px">Prendre rendez-vous en ligne</span><img style="height:15px;margin-bottom:3px;vertical-align:middle;width:auto" src="https://www.doctolib.fr/external_button/doctolib-white-transparent.png" alt="Doctolib"/></a>
+  {{ end }}
+  <div>&nbsp;</div>
   <div class="row justify-content-start">
     <div class="col-12">
       <div class="equipe equipe-single">
@@ -13,7 +17,6 @@
     </div>
     {{ if .Params.images }}
     <div class="col-12 pt-4 pt-md-10">
-      <h2 class="mb-2 text-uppercase">Photos</h2>
       <div class="masonry">
         {{ range .Params.images }}
           <div class="equipe-image item">
@@ -25,6 +28,7 @@
     {{ end }}
   </div>
 </div>
+
 {{ end }}
 
 {{ define "footer_js" }}

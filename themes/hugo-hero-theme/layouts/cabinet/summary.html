@@ -1,0 +1,19 @@
+<div class="cabinet cabinet-summary">
+
+  <div class="cabinet-global">
+    <h2>
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+    </h2>
+    <h3 class="cabinet-title">{{ .Params.heroSubHeading }}</h3>
+    <div class="cabinet-content">
+    {{ .Content }}
+    </div>
+
+    {{ if .Params.thumbnail }}
+    <div class="cabinet-image border border-5 rounded">
+      <img src="{{ .Params.thumbnail | relURL }}"/>
+    </div>
+    {{ end }}
+
+  </div>
+</div>

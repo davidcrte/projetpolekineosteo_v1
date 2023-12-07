@@ -7,7 +7,7 @@ button: 'About Us'
 buttonLink: 'about'
 heroHeading: 'Chlöé Le Bechennec'
 heroSubHeading: 'Kinésithérapeute DE'
-heroBackground: '/cabinet/_DSC0864_c.png'
+heroBackground: '/cabinet/14c206e6-6f94-46b6-b006-918822474154.JPG'
 thumbnail: '/equipe/chloe.jpeg'
 images: ['/equipe/chloe.jpeg']
 ---
@@ -28,30 +28,3 @@ Au plaisir de vous retrouver prochainement au Pôle kiné ostéo du port.
 - Neurodynamique et syndromes canalaires 
 - Diagnostic des douleurs lombaires et referées aux membres inférieurs
 - Approche Clear Inside
-
-## Tarifs
-
-- Consultation de kinésithérapie : de 16,13€ à .....
-(Taxe compensatrice de charges de 2€/séance hors ALD,CMU,AT)
-- Consultation d’Ostéopathie : 55€
-Ces honoraires vous sont communiqués à titre indicatif. Ils peuvent varier selon le type de
-soins, le nombre de séances et les actes effectués.
-
-## **Paiement**
-- Carte bancaire
-- Espèces
-- Chèque
-
-## Remboursement
-- Sécurité sociale + mutuelle
-- Carte vitale : oui
-- Conventionné : oui
-
-## Horaires
-Lundi
-Mardi
-Mercredi.
-Jeudi
-Vendredi
-Samedi
-Dimanche
