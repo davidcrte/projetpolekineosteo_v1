@@ -7418,7 +7418,6 @@ html {
 .page-equipe-single .content ul {
   list-style-type: circle; }
   .page-equipe-single .content ul strong {
-    color: #3E828F;
     font-family: sans-serif, -apple-system; }
 
 .page-equipe-single .masonry {
