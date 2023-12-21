@@ -5,7 +5,7 @@ draft: false
 weight: 3
 heroHeading: 'Grégory Cohen-Coudar'
 heroSubHeading: 'Kinésithérapeute DE'
-heroBackground: '/cabinet/14c206e6-6f94-46b6-b006-918822474154.JPG'
+heroBackground: './cabinet/14c206e6-6f94-46b6-b006-918822474154.JPG'
 thumbnail: '/equipe/gregory.jpeg'
 images: ['/equipe/gregory.jpeg']
 ---
