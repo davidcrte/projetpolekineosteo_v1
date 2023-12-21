@@ -5,7 +5,7 @@ draft: false
 weight: 2
 heroHeading: 'Pierre Val'
 heroSubHeading: 'Kinésithérapeute DE et Ostéopathe du sport'
-heroBackground: '/cabinet/14c206e6-6f94-46b6-b006-918822474154.JPG'
+heroBackground: './cabinet/14c206e6-6f94-46b6-b006-918822474154.JPG'
 thumbnail: '/equipe/pierre.jpeg'
 images: ['/equipe/pierre.jpeg']
 ---
