@@ -29,7 +29,7 @@ Nous intervenons également pour des soins à domicile.
 
 - Séance suivi Dry Needling (20min): **25 €**
 
-- Thérapie Manuelle et techniques ostéopathiques (40min) : **50€**
+- Thérapie Manuelle (40min) : **50€**
 
 ## **Paiement**
 - Carte bancaire
