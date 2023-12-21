@@ -5,7 +5,6 @@ theme = "hugo-hero-theme"
 baseURL = "//davidcrte.github.io/projetpolekineosteo_v1/"
 themesDir = "themes"
 #test pour bug images déploiement
-canonifyURLs = true
 
 [module]
   [module.hugoVersion]
