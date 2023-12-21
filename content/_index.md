@@ -3,7 +3,7 @@ title: 'Accueil'
 date: 2018-02-12T15:37:57+07:00
 #heroHeading: 'Pôle kiné ostéo du Port'
 #heroSubHeading: 'Bienvenue au Pôle kiné ostéo du port !'
-heroBackground: '/accueil/banniere_site.jpg'
+heroBackground: './accueil/banniere_site.jpg'
 ---
 
 ## Bienvenue au Pôle kiné ostéo du port !
