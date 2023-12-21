@@ -4,6 +4,8 @@ theme = "hugo-hero-theme"
 baseURL = "/"
 #baseURL = "https://davidcrte.github.io/pkop_public/"
 themesDir = "themes"
+#test pour bug images déploiement
+canonifyURLs = true
 
 [module]
   [module.hugoVersion]
