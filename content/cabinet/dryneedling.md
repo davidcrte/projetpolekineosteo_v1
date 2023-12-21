@@ -2,7 +2,7 @@
 date: 2023-09-15T18:19:46+10:00
 draft: false
 weight: 1
-thumbnail: '/cabinet/stock-photo-physiotherapist-treating-an-overload-with-dry-needling-2156735259.jpg'
+thumbnail: './cabinet/stock-photo-physiotherapist-treating-an-overload-with-dry-needling-2156735259.jpg'
 images: ['']
 heroSubHeading: 'Dry Needling'
 ---

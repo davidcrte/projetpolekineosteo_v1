@@ -2,7 +2,7 @@
 date: 2023-09-15T18:19:46+10:00
 draft: false
 weight: 3
-thumbnail: '/cabinet/stock-photo-man-running-in-a-gym-on-a-treadmill-concept-for-exercising-fitness-and-healthy-lifestyle-180557219.jpg'
+thumbnail: './cabinet/stock-photo-man-running-in-a-gym-on-a-treadmill-concept-for-exercising-fitness-and-healthy-lifestyle-180557219.jpg'
 images: ['']
 heroSubHeading: 'Analyse de course à pied'
 ---
