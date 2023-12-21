@@ -8,7 +8,7 @@ buttonLink: 'about'
 heroHeading: 'Chlöé Le Bechennec'
 heroSubHeading: 'Kinésithérapeute DE'
 heroBackground: './cabinet/14c206e6-6f94-46b6-b006-918822474154.JPG'
-thumbnail: '/equipe/chloe.jpeg'
+thumbnail: './equipe/chloe.jpeg'
 images: ['/equipe/chloe.jpeg']
 ---
 
