@@ -7,7 +7,7 @@ heroHeading: 'Pierre Val'
 heroSubHeading: 'Kinésithérapeute DE et Ostéopathe du sport'
 heroBackground: './cabinet/14c206e6-6f94-46b6-b006-918822474154.JPG'
 thumbnail: './equipe/pierre.jpeg'
-images: ['/equipe/pierre.jpeg']
+images: ['./equipe/pierre.jpeg']
 ---
 
 Kinésithérapeute et Ostéopathe du sport, mon activité principale est le diagnostique et le traitement des troubles musculo-squelettique (douleur de dos, de mâchoires, de genoux...) et des pathologies sportives. Je reçois au cabinet tous types de sportifs (course à pied, cross fit, rugby, surf, escalade..) du sportif amateur à l'athlète de haut niveau.

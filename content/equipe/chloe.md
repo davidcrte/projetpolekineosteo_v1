@@ -9,7 +9,7 @@ heroHeading: 'Chlöé Le Bechennec'
 heroSubHeading: 'Kinésithérapeute DE'
 heroBackground: './cabinet/14c206e6-6f94-46b6-b006-918822474154.JPG'
 thumbnail: './equipe/chloe.jpeg'
-images: ['/equipe/chloe.jpeg']
+images: ['./equipe/chloe.jpeg']
 ---
 
 Je suis Chlöé Le Bechennec, kinésithérapeute diplômée de l'IFMK de Brest en 2017. Après plusieurs années d'exercice, j'ai choisi d'orienter ma pratique vers la prise en charge des pathologies musculo-squelettiques, avec une spécificité pour la rééducation de l'épaule, la rééducation du sportif de loisir, et plus récemment la prise en charge de la femme après cancer du sein. 

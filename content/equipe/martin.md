@@ -8,7 +8,7 @@ doctolib: 'https://www.doctolib.fr/masseur-kinesitherapeute/brest/martin-ily'
 heroSubHeading: 'Kinésithérapeute DE'
 heroBackground: './cabinet/14c206e6-6f94-46b6-b006-918822474154.JPG'
 thumbnail: './equipe/martin.jpg'
-images: ['/equipe/martin.jpg']
+images: ['./equipe/martin.jpg']
 ---
 
 Kinésithérapeute diplômé depuis 2010, j'ai aujourd’hui une pratique orientée vers l’orthopédie et le sport.

@@ -7,7 +7,7 @@ heroHeading: 'Grégory Cohen-Coudar'
 heroSubHeading: 'Kinésithérapeute DE'
 heroBackground: './cabinet/14c206e6-6f94-46b6-b006-918822474154.JPG'
 thumbnail: './equipe/gregory.jpeg'
-images: ['/equipe/gregory.jpeg']
+images: ['./equipe/gregory.jpeg']
 ---
 
 Kinésithérapeute diplômé depuis 2012, je prends en charge une patientèle variée mais davantage orientée vers l’orthopédie et la traumatologie du sportif. Formé à la kinésithérapie du sport, j’en fais mon activité principale au cabinet mais aussi lors d’évènements sportifs professionnels. Les méthodes de dry needling (puncture sèche musculaire), thérapie manuelle, analyse de course à pied (pour ne citer qu’elles) m’aideront à vous accompagner dans votre rééducation. L’autonomisation du patient est selon moi l’un des objectifs de tout traitement. 
