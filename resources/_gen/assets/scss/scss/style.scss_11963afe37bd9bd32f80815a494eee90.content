@@ -6699,9 +6699,11 @@ ol {
     width: 100%; }
 
 .footer {
-  background: linear-gradient(90deg, #ffffff calc(25% - .5rem), #3E828F calc(25% - .5rem));
   color: #d6d4d2;
   box-shadow: 0 1px 15px rgba(50, 50, 93, 0.2); }
+  @media (min-width: 992px) {
+    .footer {
+      background: linear-gradient(90deg, #ffffff calc(25% - .5rem), #3E828F calc(25% - .5rem)); } }
   .footer .footer-inner {
     justify-content: space-between; }
     @media (min-width: 576px) {
@@ -7429,6 +7431,10 @@ html {
   /* Masonry bricks or child elements */
   background-color: #eee;
   margin: 0 0 1em; }
+
+.page-contact strong {
+  color: #3E828F;
+  font-family: sans-serif, -apple-system; }
 
 .page-home .map-legend {
   border: 3px solid #3E828F; }

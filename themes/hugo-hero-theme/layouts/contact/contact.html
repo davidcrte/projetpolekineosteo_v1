@@ -9,11 +9,11 @@
 <div class="container pt-6 pt-md-10">
   <div class="row m-3">
       {{ if .Content }}
-      <div class="col-4 page-contact">
+      <div class="row mb-3">
         {{ .Content }}
       </div>
       {{ end }}
-      <div class="col-8">
+      <div class="col-8-lg">
         <form action="https://api.web3forms.com/submit" method="POST" id="form" accept-charset="UTF-8">
           <input type="hidden" name="access_key" value="{{ .Params.ACCESS_KEY}}" />
           <div class="form-group">

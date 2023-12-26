@@ -1,7 +1,9 @@
 .footer {
   //background: $primary;
-  background: linear-gradient(90deg,$white calc(25% - .5rem),$primary calc(25% - .5rem));
   color: #d6d4d2;
+  @include media-breakpoint-up(lg) {
+    background: linear-gradient(90deg,$white calc(25% - .5rem),$primary calc(25% - .5rem));
+  }
   box-shadow: 0 1px 15px rgba(50, 50, 93, 0.2);
 
   .footer-inner {
