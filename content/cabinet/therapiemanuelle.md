@@ -2,7 +2,7 @@
 date: 2023-09-15T18:19:46+10:00
 draft: false
 weight: 1
-thumbnail: './cabinet/stock-photo-doctor-physiotherapist-doing-healing-treatment-on-man-s-back-back-pain-patient-treatment-medical-1765949750.jpg'
+thumbnail: './cabinet/pexels-ryutaro-tsukata-5473182.jpg'
 images: ['']
 heroSubHeading: 'Thérapie Manuelle'
 ---
