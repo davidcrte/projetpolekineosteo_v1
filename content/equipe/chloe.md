@@ -3,8 +3,7 @@ title: 'Chlöé Le Bechennec'
 date: 2023-09-15T18:19:46+10:00
 draft: false
 weight: 1
-button: 'About Us'
-buttonLink: 'about'
+doctolib: 'https://www.doctolib.fr/masseur-kinesitherapeute/brest/chloe-le-bechennec-brest'
 heroHeading: 'Chlöé Le Bechennec'
 heroSubHeading: 'Kinésithérapeute DE'
 heroBackground: './cabinet/14c206e6-6f94-46b6-b006-918822474154.JPG'

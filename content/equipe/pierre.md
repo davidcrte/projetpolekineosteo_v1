@@ -4,6 +4,7 @@ date: 2023-09-15T18:19:46+10:00
 draft: false
 weight: 2
 heroHeading: 'Pierre Val'
+doctolib: 'https://www.doctolib.fr/osteopathe/brest/pierre-val'
 heroSubHeading: 'Kinésithérapeute DE et Ostéopathe du sport'
 heroBackground: './cabinet/14c206e6-6f94-46b6-b006-918822474154.JPG'
 thumbnail: './equipe/pierre.jpeg'
