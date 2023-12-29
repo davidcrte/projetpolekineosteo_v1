@@ -7,9 +7,14 @@
     .hero-image {
         background-repeat: no-repeat;
         background-position: top center;
+        @include media-breakpoint-down(sm) {
+            height: 250px;
+        }
+        @include media-breakpoint-up(lg) {
+            height: 400px;
+        }
         background-blend-mode: screen;
         background-color: $primary;
-        height: 400px;
         position: relative;
         padding-top: 60px;
 

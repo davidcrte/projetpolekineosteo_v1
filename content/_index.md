@@ -21,7 +21,8 @@ Nous intervenons également pour des soins à domicile.
 
 - Tarifs des séances d'ostéopathie: **55 €**
 
-## **Tarifs des séances non conventionnées:**
+&NewLine;
+## Tarifs des séances non conventionnées:
 
 - Analyse de course à pied (40min): **55 €**
 
@@ -31,12 +32,14 @@ Nous intervenons également pour des soins à domicile.
 
 - Thérapie Manuelle (40min) : **50€**
 
-## **Paiement**
+&NewLine;
+## Paiement
 - Carte bancaire
 - Espèces
 - Chèque
 
+&NewLine;
 ## Remboursement
 - Sécurité sociale + mutuelle
-- Carte vitale : oui
-- Conventionné : oui
+- Carte vitale : **oui**
+- Conventionné : **oui**

@@ -10,6 +10,12 @@ themesDir = "themes"
   [module.hugoVersion]
     extended = true
     min = "0.92.0"
+
+#pour l'indexation
+[sitemap]
+  changeFreq = ''
+  filename = 'sitemap.xml'
+  priority = -1    
     
 [params]
   google_analytics_id=""

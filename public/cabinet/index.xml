@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Le cabinet on Pôle Kiné-Ostéo du Port</title>
+    <link>/cabinet/</link>
+    <description>Recent content in Le cabinet on Pôle Kiné-Ostéo du Port</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Sat, 22 Apr 2023 13:48:18 +0700</lastBuildDate><atom:link href="/cabinet/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>/cabinet/dryneedling/</link>
+      <pubDate>Fri, 15 Sep 2023 18:19:46 +1000</pubDate>
+      
+      <guid>/cabinet/dryneedling/</guid>
+      <description>Des aiguilles sont utilisées en intra-musculaire pour stimuler la zone musculaire douloureuse afin d’y rétablir une circulation sanguine normale. Ceci permet une diminution puis une disparition de la douleur. À noter que cette technique n’est pas à confondre avec l’acupuncture dont l’approche est différente.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/cabinet/osteopathie/</link>
+      <pubDate>Fri, 15 Sep 2023 18:19:46 +1000</pubDate>
+      
+      <guid>/cabinet/osteopathie/</guid>
+      <description>Le but de l’ostéopathie est, via des manipulations manuelles, de rendre souplesse et élasticité aux zones du corps ayant perdues ces qualités mécaniques indispensables. L’ostéopathie est à visée curative en cas de douleurs, ou préventive, notamment chez le sportif pour améliorer la mobilité et la motricité.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/cabinet/therapiemanuelle/</link>
+      <pubDate>Fri, 15 Sep 2023 18:19:46 +1000</pubDate>
+      
+      <guid>/cabinet/therapiemanuelle/</guid>
+      <description>La Thérapie Manuelle est un champ spécialisé de la kinésithérapie pour la prise en charge des problèmes articulaires, incluant des techniques manuelles ostéopathiques et des exercices thérapeutiques. Elle consiste à améliorer le mouvement et la motricité d’un individu.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/cabinet/ondeschoc/</link>
+      <pubDate>Fri, 15 Sep 2023 18:19:46 +1000</pubDate>
+      
+      <guid>/cabinet/ondeschoc/</guid>
+      <description>Thérapie complémentaire aux exercices actifs. Une onde mécanique est appliquée sur la zone douloureuse afin de la vasculariser et de la désensibiliser pour accélérer la guérison.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/cabinet/analysecourse/</link>
+      <pubDate>Fri, 15 Sep 2023 18:19:46 +1000</pubDate>
+      
+      <guid>/cabinet/analysecourse/</guid>
+      <description>Les analyses de course à pied sont réalisées sur tapis de course au sein de notre cabinet. Ces analyses ont pour objectifs d’optimiser votre foulée en améliorant votre technique de course et de prévenir les blessures en décelant des déficits lors de votre effort. Cette expertise s’adresse aux coureurs de tous niveaux : du débutant qui souhaite prendre de bonnes habitudes au coureur chevronné qui veut prévenir une blessure.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/cabinet/cancersein/</link>
+      <pubDate>Fri, 15 Sep 2023 18:19:46 +1000</pubDate>
+      
+      <guid>/cabinet/cancersein/</guid>
+      <description>Nous vous accompagnons pour vous aider à retrouver votre mobilité, prévenir les enraidissements liés aux traitements, et retrouver une activité physique régulière afin de vous réapproprier votre corps et améliorer votre tolérance face aux effets indésirables des traitements.</description>
+    </item>
+    
+  </channel>
+</rss>

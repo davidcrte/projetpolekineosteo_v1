@@ -27,4 +27,5 @@ Au plaisir de vous recevoir au Pôle Kine Osteo du Port
 - Kinesport et EBP
 - Dysfonction temporo-mandibulaire 
 - Prise en charge des douleurs irradiantes
--Thérapie manuelle debout du sportif
+- Thérapie manuelle debout du sportif
+- Echographie musculo-squelettique

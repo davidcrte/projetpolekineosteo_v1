@@ -7081,7 +7081,8 @@ ul.social {
   font-family: "Ysabeau", sans-serif, -apple-system;
   line-height: 1.4;
   font-weight: 400;
-  color: #333333; }
+  color: #3E828F;
+  padding-top: 20px; }
   @media (min-width: 768px) {
     .content h2 {
       line-height: 1.4; } }
@@ -7432,10 +7433,6 @@ html {
   background-color: #eee;
   margin: 0 0 1em; }
 
-.page-contact strong {
-  color: #3E828F;
-  font-family: sans-serif, -apple-system; }
-
 .page-home .map-legend {
   border: 3px solid #3E828F; }
 
@@ -7444,9 +7441,14 @@ html {
   background-position: top center;
   background-blend-mode: screen;
   background-color: #3E828F;
-  height: 400px;
   position: relative;
   padding-top: 60px; }
+  @media (max-width: 767.98px) {
+    .page-home .hero-image {
+      height: 250px; } }
+  @media (min-width: 992px) {
+    .page-home .hero-image {
+      height: 400px; } }
   .page-home .hero-image .container {
     height: 100%;
     display: flex;

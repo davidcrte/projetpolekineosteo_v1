@@ -29,10 +29,11 @@
     font-family: $font-family-heading;
     line-height: 1.4;
     font-weight: 400;
-    color: #333333;
+    color: $primary;
     @include media-breakpoint-up(md) {
       line-height: 1.4;
     }
+    padding-top: 20px;
   }
   // Subheading
   h3 {
