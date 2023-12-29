@@ -27,5 +27,5 @@ Kinésithérapeute diplômé depuis 2012, je prends en charge une patientèle va
 - Tennis: Internationaux de France, Roland Garros. 2019, 2021, 2022, 2023
 - Cyclisme:  
     - Donnons des « elles » au vélo J-1. 2018
-    - Tour de Wallonie, équipe professionnelle masculine Arkea-Samsic. 2021/2022 
+    - Tour de Wallonie, équipe professionnelle masculine Arkea-Samsic. 2021 et 2022 
 - Football: Centre de Formation du Stade Brestois 29. 2020
