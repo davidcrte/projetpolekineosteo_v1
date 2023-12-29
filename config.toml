@@ -1,8 +1,8 @@
 languageCode = "fr-fr"
 title = "Pôle Kiné-Ostéo du Port"
 theme = "hugo-hero-theme"
-#baseURL = "/"
-baseURL = "//davidcrte.github.io/projetpolekineosteo_v1/"
+baseURL = "/"
+#baseURL = "//davidcrte.github.io/projetpolekineosteo_v1/"
 themesDir = "themes"
 #test pour bug images déploiement
 
