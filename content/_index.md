@@ -6,7 +6,7 @@ date: 2018-02-12T15:37:57+07:00
 heroBackground: './accueil/shutterstock_1761737447.jpg'
 ---
 
-## Bienvenue au Pôle kiné ostéo du port !
+### Bienvenue au Pôle kiné ostéo du port !
 
 Bienvenue au Pôle kiné ostéo du port !
 Toute l’équipe PKOP vous accueille du lundi au vendredi sur RDV pour des séances de kinésithérapie et d’ostéopathie. Pour cela, vous pouvez joindre notre secrétariat par téléphone, par mail ou bien en vous déplaçant directement au cabinet sur les horaires d’ouverture. Pour les séances d’ostéopathie, vous avez la possibilité de prendre RDV sur doctolib.
@@ -17,29 +17,27 @@ Notre cabinet mise sur la complémentarité entre nos différentes compétences 
 
 Nous intervenons également pour des soins à domicile.
 
-## Tarifs
+### Tarifs :
 
-- Tarifs des séances d'ostéopathie: **55 €**
+####  - tarifs conventionnés : 
 
-&NewLine;
-## Tarifs des séances non conventionnées:
+Séance de kinésithérapie selon la NGAP
 
-- Analyse de course à pied (40min): **55 €**
+#### - tarifs non conventionnés :
 
-- 1 ère séance Dry Needling (40min) : **50 €**
+Séance d'ostéopathie: **55 €** \
+Séance d'analyse de course à pied (40min): **55 €** \
+Séance Dry Needling (1ère séance, 40min) : **50 €** \
+Séance suivi Dry Needling (20min): **25 €** \
+Séance de thérapie Manuelle (40min) : **50€**
 
-- Séance suivi Dry Needling (20min): **25 €**
 
-- Thérapie Manuelle (40min) : **50€**
+### Paiement :
+Carte bancaire \
+Espèces \
+Chèque
 
-&NewLine;
-## Paiement
-- Carte bancaire
-- Espèces
-- Chèque
-
-&NewLine;
-## Remboursement
-- Sécurité sociale + mutuelle
-- Carte vitale : **oui**
-- Conventionné : **oui**
+### Remboursement :
+Sécurité sociale + mutuelle \
+Carte vitale : **oui** \
+Conventionné : **oui**

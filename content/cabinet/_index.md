@@ -11,8 +11,8 @@ Le cabinet est équipé d’Ondes de Choc, d’Appareils de Musculation (press, 
 Des exercices sont prescrits pour une participation active des patients. Notre objectif reste votre autonomisation à la fin des soins.
 Notre secrétaire se tient à votre disposition à l’accueil pour les prises de rendez-vous et la gestion administrative de votre dossier (ordonnances, facturations/remboursements…).
 
-## Informations :
+### Informations :
 
-- Lors de votre première consultation de kinésithérapie, merci de vous munir de votre ordonnance, votre carte vitale ainsi que de votre carte mutuelle. N’hésitez pas à apporter également vos examens complémentaires / compte rendus récents en rapport avec la pathologie pour laquelle vous consultez.
+Lors de votre première consultation de kinésithérapie, merci de vous munir de votre ordonnance, votre carte vitale ainsi que de votre carte mutuelle. N’hésitez pas à apporter également vos examens complémentaires / compte rendus récents en rapport avec la pathologie pour laquelle vous consultez.
 
-- Merci d’apporter votre propre serviette pour une raison d’hygiène et écologique. N’hésitez pas à venir avec une tenue confortable pour pratiquer les exercices!
+Merci d’apporter votre propre serviette pour une raison d’hygiène et écologique. N’hésitez pas à venir avec une tenue confortable pour pratiquer les exercices!

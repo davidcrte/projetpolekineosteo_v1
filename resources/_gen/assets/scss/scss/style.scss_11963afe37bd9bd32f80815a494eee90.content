@@ -899,7 +899,7 @@ h3, .h3 {
   font-size: 1.75rem; }
 
 h4, .h4 {
-  font-size: 1.5rem; }
+  font-size: 1.3rem; }
 
 h5, .h5 {
   font-size: 1.25rem; }
@@ -7090,9 +7090,20 @@ ul.social {
   color: #3E828F;
   line-height: 1.4;
   font-weight: 200;
-  letter-spacing: 1px; }
+  letter-spacing: 1px;
+  padding-top: 20px; }
   @media (min-width: 768px) {
     .content h3 {
+      line-height: 1.4;
+      letter-spacing: 1.8px;
+      font-weight: 200; } }
+.content h4 {
+  color: #3E828F;
+  line-height: 1.4;
+  font-weight: 200;
+  letter-spacing: 1px; }
+  @media (min-width: 768px) {
+    .content h4 {
       line-height: 1.4;
       letter-spacing: 1.8px;
       font-weight: 200; } }
@@ -7352,13 +7363,13 @@ html {
     border-bottom: 2px solid #3E828F; }
     .cabinet-summary .cabinet-global .cabinet-title {
       color: #3E828F;
-      font-family: "Ysabeau", sans-serif, -apple-system;
-      font-size: 1.9rem; }
+      font-family: "Ysabeau", sans-serif, -apple-system; }
     .cabinet-summary .cabinet-global .cabinet-content {
       min-height: 200px; }
     .cabinet-summary .cabinet-global p {
-      color: #666;
-      font-size: 0.9rem; }
+      color: #666; }
+    .cabinet-summary .cabinet-global h3 {
+      font-size: 1.5rem; }
 
 .page-cabinet-list h1.title {
   font-size: 3rem;
@@ -7438,17 +7449,19 @@ html {
 
 .page-home .hero-image {
   background-repeat: no-repeat;
-  background-position: top center;
   background-blend-mode: screen;
   background-color: #3E828F;
   position: relative;
   padding-top: 60px; }
   @media (max-width: 767.98px) {
     .page-home .hero-image {
-      height: 250px; } }
+      height: 200px;
+      width: 100%;
+      margin-top: 40px; } }
   @media (min-width: 992px) {
     .page-home .hero-image {
-      height: 400px; } }
+      height: 400px;
+      background-position: top center; } }
   .page-home .hero-image .container {
     height: 100%;
     display: flex;

@@ -19,7 +19,7 @@
     .cabinet-title {
       color: $primary;
       font-family: $font-family-heading;
-      font-size: 1.9rem;
+      //font-size: 1.9rem;
     }
 
     .cabinet-content{
@@ -28,7 +28,12 @@
 
     p {
       color: #666;
-      font-size: 0.9rem;
+      //font-size: 0.9rem;
     }
+
+    h3 {
+      font-size: 1.5rem;
+    }
+
   }
 }
