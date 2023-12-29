@@ -8,4 +8,4 @@ heroSubHeading: 'Analyse de course à pied'
 ---
 
 Les analyses de course à pied sont réalisées sur tapis de course au sein de notre cabinet. Ces analyses ont pour objectifs d’optimiser votre foulée en améliorant votre technique de course et de prévenir les blessures en décelant des déficits lors de votre effort.
-Cette expertise s’adresse aux coureurs de tous niveaux : du débutant qui souhaite prendre de bonnes habitudes au coureur chevronné qui veut prévenir une blessure.
+Cette expertise s’adresse aux coureurs de tous niveaux.

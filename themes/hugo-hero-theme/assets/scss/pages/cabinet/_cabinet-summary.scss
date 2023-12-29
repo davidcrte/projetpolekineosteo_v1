@@ -19,16 +19,12 @@
     .cabinet-title {
       color: $primary;
       font-family: $font-family-heading;
-      //font-size: 1.9rem;
-    }
-
-    .cabinet-content{
-      min-height: 200px;
     }
 
     p {
       color: #666;
-      //font-size: 0.9rem;
+      min-height: 150px;
+
     }
 
     h3 {

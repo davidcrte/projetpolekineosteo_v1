@@ -14,6 +14,6 @@ fromName: 'Message site internet'
 heroBackground: 'http://www.cabinetkinerepublique.fr/s/img/emotionheader5620394.png?1588682237.920px.341px'
 ---
 
-## Prendre un RDV
+### Prendre un RDV
 - Par téléphone pour des séances de kinésithérapie
 - Par téléphone ou doctolib pour des séances d’ostéopathie
