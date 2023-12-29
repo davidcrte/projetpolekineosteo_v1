@@ -19,11 +19,11 @@ Nous intervenons également pour des soins à domicile.
 
 ### Tarifs :
 
-####  - tarifs conventionnés : 
+####  - Tarifs conventionnés : 
 
 Séance de kinésithérapie selon la NGAP
 
-#### - tarifs non conventionnés :
+#### - Tarifs non conventionnés :
 
 Séance d'ostéopathie: **55 €** \
 Séance d'analyse de course à pied (40min): **55 €** \
