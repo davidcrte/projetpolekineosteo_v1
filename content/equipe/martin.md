@@ -18,8 +18,6 @@ Mes autres domaines d’intervention sont les troubles musculo-squelettiques. Mo
 J’adapte ma pratique en fonction des besoins de chacun : techniques ostéopathiques de thérapie manuelle, levées de tensions musculaires, dry needling, ondes de chocs et techniques de rééducation actives sont autant de méthodes que je combine afin d’accompagner les patients vers la guérison. 
 Pour favoriser la récupération, des exercices peuvent en outre être proposés : en autonomie sur la base de programmes d’auto-rééducation, ou en complément des séances dans notre salle de sport. 
 
-Au plaisir de vous recevoir au Pôle Kiné Ostéo du Port 
-
 ## Mes principales formations :
 
 - Kinésithérapeute DE   

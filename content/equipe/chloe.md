@@ -15,7 +15,6 @@ Je suis Chlöé Le Bechennec, kinésithérapeute diplômée de l'IFMK de Brest e
 
 Je me forme fréquemment sur différents sujets qui me passionnent afin d'améliorer ma pratique, de la faire évoluer en fonction des avancées scientifiques et d'être toujours plus impliquée dans mes prises en charge.
 Grâce à mes formations pratiques citées précédemment et théoriques, avec notamment l'approche des neurosciences de la douleur, je tiens à mettre le patient au centre de sa rééducation, en l'impliquant de façon active dans son traitement. 
-Au plaisir de vous retrouver prochainement au Pôle kiné ostéo du port. 
 
 ## Formations
 - L'épaule au top  

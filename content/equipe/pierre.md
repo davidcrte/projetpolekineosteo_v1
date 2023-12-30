@@ -16,8 +16,6 @@ La complémentarité entre le travail de mobilité en ostéopathie, le dry needl
 Je propose aussi des analyses de course à pied sur tapis pour optimiser les performances du coureur.
 Mon objectif est toujours de vous rendre le plus autonome possible dans votre traitement afin de conserver un gain sur du long terme.
 
-Au plaisir de vous recevoir au Pôle Kine Osteo du Port 
-
 **Mes principales formations :**
 
 - Ostéopathe DO
