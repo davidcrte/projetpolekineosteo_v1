@@ -8,34 +8,48 @@
 
 <div class="container pt-6 pt-md-10">
   <div class="row m-3">
-      {{ if .Content }}
-      <div class="row mb-3 content">
-        {{ .Content }}
-      </div>
-      {{ end }}
-      <div class="col-8-lg">
-        <form action="https://api.web3forms.com/submit" method="POST" id="form" accept-charset="UTF-8">
-          <input type="hidden" name="access_key" value="{{ .Params.ACCESS_KEY}}" />
-          <div class="form-group">
-            <input type="text" class="form-control" name="Prénom" required placeholder="{{ .Params.name_ph}}">
-          </div>
-          <div class="form-group">
-            <input type="text" class="form-control" name="Nom" required placeholder="{{ .Params.surname_ph}}">
-          </div>
-          <div class="form-group">
-            <input type="text" class="form-control" name="Objet" required placeholder="{{ .Params.subject_ph}}">
-          </div>
-          <div class="form-group">
-            <input type="email" class="form-control" name="Email" required aria-describedby="emailHelp" placeholder="{{ .Params.email_ph}}">
-          </div>
-          <div class="form-group">
-            <textarea class="form-control" name="message" required rows="8" placeholder="{{ .Params.message_ph}}"></textarea>
-          </div>
-          <input type="hidden" name="redirect" value="{{ .Params.redirect}}">
-          <input type="hidden" name="from_name" value="{{ .Params.fromName}}">
-          <button type="submit" class="btn btn-primary">{{ .Params.labelButton}}</button>
-        </form>
-      </div>
+    {{ if .Content }}
+    <div class="row content">
+      {{ .Content }}
+    </div>
+    {{ end }}
+    {{ if .Site.Data.contact.phone }}
+    <div class="row mb-3 content">
+    <ul>
+    <li class="infos"><i class="bi bi-telephone-fill"></i><a href="tel:{{ .Site.Data.contact.phone }}" class="pl-1">{{
+        .Site.Data.contact.phone }}</a></li>
+      </ul>
+    </div>
+    {{ end }}
+    <div class="col-8-lg">
+      <form action="https://api.web3forms.com/submit" method="POST" id="form" accept-charset="UTF-8">
+        <input type="hidden" name="access_key" value="{{ .Params.ACCESS_KEY}}" />
+        <div class="form-group">
+          <input type="text" class="form-control" name="Prénom" required placeholder="{{ .Params.name_ph}}">
+        </div>
+        <div class="form-group">
+          <input type="text" class="form-control" name="Nom" required placeholder="{{ .Params.surname_ph}}">
+        </div>
+        <div class="form-group">
+          <input type="text" class="form-control" name="Objet" required placeholder="{{ .Params.subject_ph}}">
+        </div>
+        <div class="form-group">
+          <input type="text" class="form-control" name="Téléphone" required aria-describedby="phoneHelp"
+            placeholder="{{ .Params.phone_ph}}">
+        </div>
+        <div class="form-group">
+          <input type="email" class="form-control" name="Email" required aria-describedby="emailHelp"
+            placeholder="{{ .Params.email_ph}}">
+        </div>
+        <div class="form-group">
+          <textarea class="form-control" name="message" required rows="8"
+            placeholder="{{ .Params.message_ph}}"></textarea>
+        </div>
+        <input type="hidden" name="redirect" value="{{ .Params.redirect}}">
+        <input type="hidden" name="from_name" value="{{ .Params.fromName}}">
+        <button type="submit" class="btn btn-primary">{{ .Params.labelButton}}</button>
+      </form>
+    </div>
 
   </div>
 </div>

@@ -1,4 +1,30 @@
 .page-contact {
 
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        flex: 1;
+        li {
+          display: block;
+          margin-right: 10px;
+          //color: lighten($secondary, 50%);
+          line-height: 1.8;
+          &:last-of-type {
+            margin-right: 0;
+          }
+          &.infos{
+            color: $primary;
+            font-size: 1.1rem;
+            line-height: 1.8;
+            font-weight: bolder;
+          }
+          &.businessName{
+            text-decoration: underline;
+          }
+
+        }
+    
+      }
 
 }

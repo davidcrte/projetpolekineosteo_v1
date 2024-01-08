@@ -2,7 +2,7 @@
 title: 'Message envoyé'
 #heroHeading: 'Pôle kiné ostéo du Port'
 #heroSubHeading: 'Bienvenue au Pôle kiné ostéo du port !'
-heroBackground: 'accueil/pkop1.jpg'
+heroBackground: './accueil/shutterstock_1761737447.jpg'
 ---
 
 Merci de nous avoir contacté

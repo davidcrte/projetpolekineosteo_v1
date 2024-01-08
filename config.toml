@@ -21,7 +21,7 @@ themesDir = "themes"
   google_analytics_id=""
 
   [params.logo]
-    mobile = "./images/logo-mobile.svg"
+    #mobile = "./images/logo-mobile.svg"
     #mobile_height = "36px"
     #mobile_width = "36px"
     desktop = "./accueil/logo2.png"
@@ -30,12 +30,12 @@ themesDir = "themes"
     alt = "Logo Pole Kiné Ostéo du Port"
 
   [params.homepage_meta_tags]
-    meta_description = "Le Pôle Kiné Ostéo du Port vous accueille à Brest pour des séances de kinésithérapie et d'ostéopathie. Nous proposons de la thérapie manuelle, du dry needling, des ondes de choc, de l'analyse de course et la prise en charge du cancer du sein en kiné."
-    meta_og_title = "Pôle Kiné Ostéo du Port Brest"
+    meta_description = "Pôle Kiné Ostéo du Port à Brest. Masseur Kinésithérapeute. Kiné du sport. Ostéopathe du sport. Analyse foulée, thérapie manuelle, dry needling, ondes de choc."
+    meta_og_title = "Pôle Kiné Osteo du Port Brest"
     meta_og_type = "website"
-    meta_og_url = "https://hugo-hero.netlify.app"
-    #meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-hero-theme/master/images/tn.png"
-    meta_og_description = "Le Pôle Kiné Ostéo du Port vous accueille à Brest pour des séances de kinésithérapie et d'ostéopathie. Nous proposons de la thérapie manuelle, du dry needling, des ondes de choc, de l'analyse de course et la prise en charge du cancer du sein en kiné."
+    meta_og_url = "https://pole-kine-osteo-port-brest.fr/"
+    meta_og_image = "./favicon.png"
+    meta_og_description = "Pôle Kiné Ostéo du Port à Brest. Masseur Kinésithérapeute. Kiné du sport. Ostéopathe du sport. Analyse foulée, thérapie manuelle, dry needling, ondes de choc."
     #meta_twitter_card = "summary"
     #meta_twitter_site = "@zerostaticio"
     #meta_twitter_creator = "@zerostaticio"
@@ -64,3 +64,4 @@ themesDir = "themes"
 [permalinks]
   post = "/:year/:month/:day/:slug/"
   pages = "/:filename/"
+

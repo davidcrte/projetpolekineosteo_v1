@@ -7443,6 +7443,88 @@ html {
   background-color: #eee;
   margin: 0 0 1em; }
 
+.page-contact ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  flex: 1; }
+  .page-contact ul li {
+    display: block;
+    margin-right: 10px;
+    line-height: 1.8; }
+    .page-contact ul li:last-of-type {
+      margin-right: 0; }
+    .page-contact ul li.infos {
+      color: #3E828F;
+      font-size: 1.1rem;
+      line-height: 1.8;
+      font-weight: bolder; }
+    .page-contact ul li.businessName {
+      text-decoration: underline; }
+
+.page-merci .hero-image {
+  background-repeat: no-repeat;
+  background-blend-mode: screen;
+  background-color: #3E828F;
+  position: relative;
+  padding-top: 60px; }
+  @media (max-width: 767.98px) {
+    .page-merci .hero-image {
+      height: 200px;
+      width: 100%;
+      margin-top: 40px; } }
+  @media (min-width: 992px) {
+    .page-merci .hero-image {
+      height: 400px;
+      background-position: top center; } }
+  .page-merci .hero-image .container {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column; }
+  .page-merci .hero-image .row {
+    height: inherit; }
+  .page-merci .hero-image .hero-text {
+    flex: 0;
+    color: #585551;
+    margin: auto 0; }
+    .page-merci .hero-image .hero-text h1 {
+      font-size: 3rem; }
+      @media (min-width: 768px) {
+        .page-merci .hero-image .hero-text h1 {
+          font-size: 4rem;
+          width: 80%; } }
+    .page-merci .hero-image .hero-text h2 {
+      font-size: 2.2rem; }
+      @media (min-width: 768px) {
+        .page-merci .hero-image .hero-text h2 {
+          font-size: 2.4rem; } }
+    .page-merci .hero-image .hero-text p {
+      font-size: 1.6rem;
+      line-height: 1.3; }
+      @media (min-width: 768px) {
+        .page-merci .hero-image .hero-text p {
+          font-size: 1.6rem;
+          width: 60%; } }
+  .page-merci .hero-image .hero-down {
+    flex: 0;
+    text-align: center;
+    opacity: 0.7; }
+    .page-merci .hero-image .hero-down:hover {
+      opacity: 1; }
+  .page-merci .hero-image .hero-section {
+    text-transform: uppercase;
+    font-weight: normal; }
+
+.page-merci .hero-image-fullscreen {
+  height: 50vh; }
+
+.page-merci .hero-image-setheight {
+  height: 220px; }
+
+.page-merci .hero-image-blend-overlay {
+  background-blend-mode: overlay; }
+
 .page-home .map-legend {
   border: 3px solid #3E828F; }
 
