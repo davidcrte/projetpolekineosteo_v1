@@ -9,9 +9,9 @@ surname_ph: 'Nom'
 subject_ph: 'Motif de votre demande'
 message_ph: 'Message'
 labelButton: 'Envoyer'
-ACCESS_KEY: ca379edf-b459-4d09-9a97-17e101efe2b3
+ACCESS_KEY: 23b86ea6-d0c7-4932-97bb-33fa7adcf175
 redirect: https://www.pole-kine-osteo-port-brest.fr//merci
-fromName: 'Message site internet'
+fromName: 'Nouveau message reçu via le internet'
 ---
 
 ### Prendre un RDV
