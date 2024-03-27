@@ -17,8 +17,6 @@ themesDir = "themes"
   filename = 'sitemap.xml'
   priority = -1    
     
-[params]
-  google_analytics_id=""
 
   [params.logo]
     #mobile = "./images/logo-mobile.svg"
@@ -65,3 +63,7 @@ themesDir = "themes"
   post = "/:year/:month/:day/:slug/"
   pages = "/:filename/"
 
+[[redirects]]
+	from = "/*"
+	to = "/404/"
+	status = 404

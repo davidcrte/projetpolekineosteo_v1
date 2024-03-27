@@ -4,6 +4,7 @@ date: 2023-09-15T18:19:46+10:00
 draft: false
 weight: 3
 heroHeading: 'Grégory Cohen-Coudar'
+maiia: 'https://www.maiia.com/masseur-kinesitherapeute/29200-brest/cohen-coudar-gregory'
 heroSubHeading: 'Kinésithérapeute DE'
 heroBackground: './cabinet/14c206e6-6f94-46b6-b006-918822474154.JPG'
 thumbnail: './equipe/gregory.jpg'

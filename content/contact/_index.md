@@ -16,5 +16,4 @@ fromName: 'Message site internet'
 
 ### Prendre un RDV
 
-- Par téléphone au pour des séances de kinésithérapie
-- Par téléphone ou doctolib pour des séances d’ostéopathie
+- Par téléphone ou via les boutons "Doctolib" ou "Maiia"

@@ -19,25 +19,25 @@ Nous intervenons également pour des soins à domicile.
 
 ### Tarifs :
 
-####  - Tarifs conventionnés : 
+#####  - Tarifs conventionnés : 
 
 Séance de kinésithérapie selon la NGAP
 
-#### - Tarifs non conventionnés :
+##### - Tarifs non conventionnés :
 
-Séance d'ostéopathie: **55 €** \
-Séance d'analyse de course à pied (40min): **55 €** \
-Séance Dry Needling (1ère séance, 40min) : **50 €** \
-Séance suivi Dry Needling (20min): **25 €** \
-Séance de thérapie Manuelle (40min) : **50€**
+Séance d'ostéopathie: 55 € \
+Séance d'analyse de course à pied (40min): 55 € \
+Séance Dry Needling (1ère séance, 40min) : 50 € \
+Séance suivi Dry Needling (20min): 25 € \
+Séance de thérapie Manuelle (40min) : 50€
 
 
-### Paiement :
+#### Paiement :
 Carte bancaire \
 Espèces \
 Chèque
 
-### Remboursement :
+#### Remboursement :
 Sécurité sociale + mutuelle \
-Carte vitale : **oui** \
-Conventionné : **oui**
+Carte vitale : oui \
+Conventionné : oui

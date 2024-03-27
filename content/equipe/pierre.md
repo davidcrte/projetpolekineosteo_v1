@@ -11,12 +11,12 @@ thumbnail: './equipe/pierre.jpeg'
 images: ['./equipe/pierre.jpeg']
 ---
 
-Kinésithérapeute et Ostéopathe du sport, mon activité principale est le diagnostique et le traitement des troubles musculo-squelettique (douleur de dos, de mâchoires, de genoux...) et des pathologies sportives. Je reçois au cabinet tous types de sportifs (course à pied, cross fit, rugby, surf, escalade..) du sportif amateur à l'athlète de haut niveau.
+Kinésithérapeute et Ostéopathe du sport, mon activité principale est le diagnostic et le traitement des troubles musculo-squelettique (douleur de dos, de mâchoires, de genoux...) et des pathologies sportives. Je reçois au cabinet tous types de sportifs (course à pied, cross fit, rugby, surf, escalade..) du sportif amateur à l'athlète de haut niveau.
 La complémentarité entre le travail de mobilité en ostéopathie, le dry needling (puncture musculaire) et le travail actif de renforcement en kinésithérapie permettra une prise en charge globale et un retour rapide aux différentes activités. 
 Je propose aussi des analyses de course à pied sur tapis pour optimiser les performances du coureur.
 Mon objectif est toujours de vous rendre le plus autonome possible dans votre traitement afin de conserver un gain sur du long terme.
 
-**Mes principales formations :**
+## Formations
 
 - Ostéopathe DO
 - Kinésithérapeute DE   
